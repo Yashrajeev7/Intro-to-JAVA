@@ -1,7 +1,7 @@
 
 public class Lesson211 {
 
-	public static void main(String[] args) {
+	public static void main(String5[] args) {
 		// TODO Auto-generated method stub
     int gamesi = 24;
     int cleaguei = 6;
